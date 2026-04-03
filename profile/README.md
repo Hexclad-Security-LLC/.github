@@ -30,7 +30,7 @@ Hexclad Security is a cybersecurity and managed services firm delivering secure,
 |-------|-----------|
 | Edge & Security | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
 | Infrastructure | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white) |
-| AI Platform | ![Dify](https://img.shields.io/badge/Dify-1677FF?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white) |
+| AI Platform | ![Dify](https://img.shields.io/badge/Dify-1677FF?style=flat-square&logoColor=white) |
 | Automation | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
 | Business Operations | ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white) |
 
