@@ -30,7 +30,7 @@ Hexclad Security is a cybersecurity and managed services firm delivering secure,
 |-------|-----------|
 | Edge & Security | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
 | Infrastructure | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white) |
-| AI Platform | ![Dify](https://img.shields.io/badge/Dify-1677FF?style=flat-square&logoColor=white) |
+| AI Platform | ![Dify](https://img.shields.io/badge/Dify-1677FF?style=flat-square&logoColor=white) ![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=flat-square&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) ![Google](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
 | Automation | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
 | Business Operations | ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white) |
 
